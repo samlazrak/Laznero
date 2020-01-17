@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#E0A72AFF",
+        "font" : "Fira Code",
+        "color" : "#5E5E5EFF"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "Fira Code",
+        "color" : "#797979FF"
+      },
+      "backgroundSelected" : "#262428FF",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#E0A72AFF",
+        "font" : "Fira Code",
+        "color" : "#919191FF"
+      },
+      "iconPaddingHorizontal" : 16,
+      "paddingVertical" : 6,
+      "iconSize" : 37
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#262529FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#FCC73EFF",
+        "font" : "Fira Code",
+        "color" : "#DFA928FF"
+      },
+      "backgroundSelected" : "#272428FF"
+    },
+    "window" : {
+      "color" : "#262427FF",
+      "paddingHorizontal" : 0,
+      "width" : 640,
+      "borderPadding" : 8,
+      "borderColor" : "#262529FF",
+      "blur" : 40,
+      "roundness" : 4,
+      "paddingVertical" : 4
+    },
+    "credit" : "Sam Lazrak",
+    "separator" : {
+      "color" : "#FEFFFF00",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#0000000F",
+      "thickness" : 2
+    },
+    "name" : "Laznero"
+  }
+}
